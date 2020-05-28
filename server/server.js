@@ -48,5 +48,3 @@ server.get('/*', (req, res) => {
 })
 
 server.listen(port)
-
-console.log(`Serving at http://localhost:${port}`)
